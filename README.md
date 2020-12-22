@@ -37,3 +37,16 @@ The `ref_info.csv` file contains, for each commit considered in the study:
 - `ref_perf_methods`: the number of performace relevant methods subject to refactoring
 - `ref_noperf_methods	`: the number of other methods subject to refactoring
 - `ref_no`: the number of refactoring operations performed in the commit
+
+
+The folder `data/ref_bench` contains one folder per round of data collection.
+Each file `[project].csv` in these folders contains the data used to identify benchmarks suitable to evaluate the performace impact of refactoring operations, and it contains:
+- `(Benchmark_method, commit)`: the benchmark signature and the SHA of the commit
+- `[ref_type]`: the number of refactoring operations of type `ref_type` performed in the code executed by the benchmark.
+
+
+
+
+
+
+
