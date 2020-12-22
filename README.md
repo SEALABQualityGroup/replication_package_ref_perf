@@ -44,6 +44,8 @@ Each file `[project].csv` in these folders contains the data used to identify be
 - `(Benchmark_method, commit)`: the benchmark signature and the SHA of the commit
 - `[ref_type]`: the number of refactoring operations of type `ref_type` performed in the code executed by the benchmark.
 
+#### Scripts
+The `scripts` folder contains the Python scripts used to generate the figures and the tables of the paper.
 
 
 
