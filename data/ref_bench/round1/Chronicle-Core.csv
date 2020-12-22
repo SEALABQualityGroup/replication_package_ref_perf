@@ -1,0 +1,10 @@
+"(Benchmark_method, commit)",Change Variable Type,Extract Method,Change Attribute Type,Change Return Type,Extract Variable,Change Parameter Type,Move Method,Move Class,Extract Class,Move Attribute,Extract Interface,Merge Variable,Inline Method,sum,delta
+"(net.openhft.chronicle.core.benchmark.Main.threadLocal_get,30583898e03cfe4db2b3e1f35571dbe38368caf6)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(net.openhft.chronicle.core.benchmark.Main.nullCheck,b11133630a99ea05d67954d2b37b169a4374db92)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(net.openhft.chronicle.core.benchmark.Main.nullCheck2,b11133630a99ea05d67954d2b37b169a4374db92)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(net.openhft.chronicle.core.benchmark.Main.nullCheck,8d9914558b515ea8e5858b725b1ba0386768fcc7)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(net.openhft.chronicle.core.benchmark.Main.nullCheck2,8d9914558b515ea8e5858b725b1ba0386768fcc7)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(net.openhft.chronicle.core.benchmark.Main.nullCheck,ae06ad660813d9a0472ab23b3fbfc94aff65f3b6)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(net.openhft.chronicle.core.benchmark.Main.nullCheck2,ae06ad660813d9a0472ab23b3fbfc94aff65f3b6)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(net.openhft.chronicle.core.benchmark.Main.nullCheck,3fcb72cd45b5e19a0ba260599c62eee497373a7f)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(net.openhft.chronicle.core.benchmark.Main.nullCheck2,3fcb72cd45b5e19a0ba260599c62eee497373a7f)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,

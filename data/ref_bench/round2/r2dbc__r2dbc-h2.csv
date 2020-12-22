@@ -1,0 +1,9 @@
+"(Benchmark_method, commit)",Add Parameter,Change Variable Type,Move Attribute,Change Return Type,Inline Method,Extract Method,Change Parameter Type,Remove Method Annotation,Change Attribute Type,Extract Variable,Add Method Annotation,Remove Parameter Annotation,Extract Superclass,Pull Up Method,Move Method,Add Class Annotation,Extract Attribute,Remove Class Annotation,Reorder Parameter,Remove Parameter,Move Class,Add Parameter Annotation,Remove Attribute Annotation,Extract Class,Modify Method Annotation,sum,delta
+"(io.r2dbc.h2.StatementBenchmarks.parametrizedR2dbc,950af0fc637776f9c623c45fa097052b65d96bb8)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(io.r2dbc.h2.StagedResultSizeBenchmarks.simpleJdbc,950af0fc637776f9c623c45fa097052b65d96bb8)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(io.r2dbc.h2.StagedResultSizeBenchmarks.simpleR2dbc,950af0fc637776f9c623c45fa097052b65d96bb8)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(io.r2dbc.h2.StatementBenchmarks.simpleJdbc,950af0fc637776f9c623c45fa097052b65d96bb8)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(io.r2dbc.h2.StagedResultSizeBenchmarks.preparedJdbc,950af0fc637776f9c623c45fa097052b65d96bb8)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(io.r2dbc.h2.StagedResultSizeBenchmarks.parametrizedR2dbc,950af0fc637776f9c623c45fa097052b65d96bb8)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(io.r2dbc.h2.StatementBenchmarks.parametrizedJdbc,950af0fc637776f9c623c45fa097052b65d96bb8)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"(io.r2dbc.h2.StatementBenchmarks.simpleR2dbc,950af0fc637776f9c623c45fa097052b65d96bb8)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
